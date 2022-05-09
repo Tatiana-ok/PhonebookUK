@@ -1,0 +1,9 @@
+.header {
+  background-color: rgb(166, 166, 166);
+}
+
+.AppBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

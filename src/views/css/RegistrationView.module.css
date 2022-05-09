@@ -1,0 +1,36 @@
+.containerForm {
+  width: 1600px;
+  height: 96.7vh;
+  background: url('../../images/Tower-Bridge.jpg') no-repeat;
+  background-size: cover;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+  padding-top: 10px;
+  color: rgb(255, 255, 255);
+}
+
+.input {
+  display: inline;
+  width: 300px;
+}
+
+.button {
+  width: 150px;
+  margin-top: 15px;
+  background-color: rgb(75, 126, 155);
+  border: 0px;
+}
+
+.button:hover,
+.button:focus {
+  background-color: rgb(47, 100, 142);
+}
+
+.textPass {
+  font-size: 14px;
+  margin-bottom: 5px;
+}

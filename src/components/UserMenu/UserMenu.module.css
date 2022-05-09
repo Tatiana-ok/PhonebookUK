@@ -1,0 +1,21 @@
+.UserMenu {
+  display: flex;
+  align-items: baseline;
+}
+.welcome {
+  margin-right: 15px;
+  margin-bottom: 0px;
+}
+
+.btnExit {
+  width: 80px;
+  height: 30px;
+  background-color: rgb(120, 120, 120);
+  border: 0px;
+  color: rgb(255, 255, 255);
+}
+
+.btnExit:hover,
+.btnExit:focus {
+  background-color: rgb(100, 100, 100);
+}

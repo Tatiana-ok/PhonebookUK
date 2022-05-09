@@ -1,0 +1,20 @@
+.containerPhonebook {
+  /* display: flex; */
+  width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+  background: url('../../images/london-phone.jpg') no-repeat;
+  background-size: cover;
+}
+
+.backgroundNote {
+  width: 1000px;
+  height: 87.7vh;
+  background: url('../../images/notee.png');
+}
+
+.nameOfBook {
+  padding-top: 50px;
+  padding-left: 145px;
+  font-family: 'Caveat', cursive;
+}

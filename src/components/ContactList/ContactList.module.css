@@ -1,0 +1,96 @@
+ul {
+  padding-inline-start: 0px;
+}
+p {
+  margin: 0;
+}
+
+.listOfContacts {
+  list-style: square;
+  font-family: 'Caveat', cursive;
+  font-size: 21px;
+  margin-top: 28px;
+  margin-left: 57px;
+}
+
+.itemOfListContacts {
+  display: flex;
+  align-items: center;
+}
+
+.btnOfListContact {
+  display: inline;
+  width: 22px;
+  height: 22px;
+  padding: 0px;
+
+  background-color: rgb(231, 216, 185);
+  border-radius: 7%;
+  border: 2px solid black;
+  box-shadow: 0px 0 4px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+
+.leftBtn {
+  margin-right: 10px;
+}
+
+tbody,
+thead,
+tr,
+td {
+  line-height: 1;
+}
+
+.tab tr {
+  line-height: 0.5;
+}
+
+.tab th,
+.tab td {
+  width: 125px;
+  min-height: 21px;
+  word-break: break-word;
+  padding: 0px;
+}
+
+.tab td {
+  display: inline-block;
+  font-weight: 500;
+  color: inherit;
+}
+
+.tabHead {
+  margin-bottom: 28px;
+}
+
+.tab .function {
+  width: 250px;
+}
+
+.tab th {
+  text-align: center;
+}
+
+.tdBtn {
+  display: flex;
+  align-items: flex-start;
+  padding: 0px;
+  margin-left: 99px;
+  /* vertical-align: middle; */
+  /* background-color: grey; */
+}
+
+.imgBtn {
+  width: 16px;
+  height: 16px;
+  vertical-align: baseline;
+}
+
+.icnCross {
+  width: 20px;
+  height: 20px;
+  fill: rgba(0, 0, 0);
+}
+
+/* rgb(231, 10, 10); */

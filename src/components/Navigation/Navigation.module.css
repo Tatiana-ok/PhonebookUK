@@ -1,0 +1,18 @@
+.link {
+  margin-left: 10px;
+  color: #010101;
+}
+
+.link:last-child {
+  margin-right: 10px;
+}
+/* .authContainer{
+  display: flex;
+  justify-content: flex-end;
+} */
+
+.link:hover,
+.link:focus {
+  color: #ffffff;
+  text-decoration: none;
+}
