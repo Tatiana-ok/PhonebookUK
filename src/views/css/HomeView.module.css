@@ -78,10 +78,10 @@ p {
 
 .btnStart:hover,
 .btnStart:focus {
-  color: rgb(248, 229, 84);
+  color: rgb(251, 53, 53);
   background-color: transparent;
   border: 1px solid black;
-  box-shadow: 0 0 10px 0 rgb(248, 229, 84) inset;
+  box-shadow: 0 0 20px 0 rgb(251, 53, 53) inset;
 
   animation-play-state: paused;
 }
